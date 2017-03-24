@@ -1,0 +1,9 @@
+
+[yandex]
+name=Yandex
+failovermethod=priority
+baseurl=http://repo.yandex.ru/yandex-disk/rpm/stable/$basearch/
+enabled=1
+metadata_expire=1d
+gpgcheck=1
+gpgkey=http://repo.yandex.ru/yandex-disk/YANDEX-DISK-KEY.GPG
