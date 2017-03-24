@@ -1,0 +1,7 @@
+[mail.ru-cloud]
+name=mail.ru-cloud repo
+baseurl=https://linuxdesktopcloud.mail.ru/rpm/Fedora/default
+gpgcheck=1
+gpgkey=https://linuxdesktopcloud.mail.ru/mail.ru-cloud.gpg
+enabled=1
+skip_if_unavailable=True
