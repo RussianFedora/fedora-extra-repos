@@ -4,3 +4,4 @@ baseurl=http://download.virtualbox.org/virtualbox/rpm/fedora/$releasever/$basear
 enabled=1
 gpgcheck=1
 gpgkey=http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc
+skip_if_unavailable=True

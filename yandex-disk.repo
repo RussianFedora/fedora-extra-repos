@@ -6,3 +6,4 @@ enabled=1
 metadata_expire=1d
 gpgcheck=1
 gpgkey=http://repo.yandex.ru/yandex-disk/YANDEX-DISK-KEY.GPG
+skip_if_unavailable=True
