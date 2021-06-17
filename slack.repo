@@ -1,7 +1,7 @@
 [slack]
 name=slack
-baseurl=https://packagecloud.io/slacktechnologies/slack/fedora/25/x86_64
-enabled=0
+baseurl=https://packagecloud.io/slacktechnologies/slack/fedora/21/x86_64
+enabled=1
 gpgcheck=0
 gpgkey=https://packagecloud.io/gpg.key
 sslverify=1
