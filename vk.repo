@@ -2,6 +2,6 @@
 name=VK Messenger repository
 baseurl=https://desktop.userapi.com/rpm/master
 gpgcheck=1
-enabled=0
+enabled=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-vk
 skip_if_unavailable=True
